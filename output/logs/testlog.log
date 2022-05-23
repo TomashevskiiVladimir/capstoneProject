@@ -1,0 +1,89 @@
+2022-05-01 20:53:33,074 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-01 20:54:08,034 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change FAILED
+2022-05-01 20:54:35,520 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-01 20:54:39,167 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-01 20:54:39,259 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-01 20:54:39,628 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-01 20:55:09,890 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change FAILED
+2022-05-01 21:01:29,532 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-01 21:01:33,245 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-01 21:01:33,304 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-01 21:01:33,655 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-01 21:02:03,907 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change FAILED
+2022-05-01 21:06:49,685 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-01 21:06:53,444 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-01 21:06:53,520 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-01 21:06:53,878 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-01 21:07:24,135 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change FAILED
+2022-05-01 21:12:36,515 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-01 21:12:40,430 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-01 21:12:40,503 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-01 21:12:41,004 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-01 21:12:41,085 - src/test/resources/input/log4j.properties -INFO - Currency value changed to Euro
+2022-05-01 21:12:41,298 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-05-01 21:41:32,308 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-01 21:41:36,423 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-01 21:41:36,489 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-01 21:41:36,938 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-01 21:41:37,002 - src/test/resources/input/log4j.properties -INFO - Currency value changed to Euro
+2022-05-01 21:41:37,170 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-05-01 21:44:44,194 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-01 21:44:48,091 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-01 21:44:48,161 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-01 21:44:48,625 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-01 21:44:48,737 - src/test/resources/input/log4j.properties -INFO - Currency value changed to Euro
+2022-05-01 21:44:48,912 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-05-02 20:10:43,393 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-02 20:10:48,661 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 20:10:48,767 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-02 20:10:49,401 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-02 20:10:49,495 - src/test/resources/input/log4j.properties -INFO - Currency value changed to Euro
+2022-05-02 20:10:50,509 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-05-02 20:13:25,904 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-02 20:13:29,614 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 20:13:29,695 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-02 20:13:30,308 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-02 20:13:30,391 - src/test/resources/input/log4j.properties -INFO - Currency value changed to Euro
+2022-05-02 20:13:31,095 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-05-02 20:38:48,806 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-02 20:38:53,109 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 20:38:53,232 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-02 20:38:53,706 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-02 20:38:53,786 - src/test/resources/input/log4j.properties -INFO - Currency value changed to Euro
+2022-05-02 20:38:54,625 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-05-02 20:38:54,684 - src/test/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-05-02 20:38:57,561 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 20:38:57,766 - src/test/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2022-05-02 21:05:23,339 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-02 21:05:28,025 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 21:05:28,115 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-02 21:05:28,564 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-02 21:05:28,614 - src/test/resources/input/log4j.properties -INFO - Currency value changed to Euro
+2022-05-02 21:05:29,477 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-05-02 21:05:29,504 - src/test/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-05-02 21:05:32,894 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 21:05:33,095 - src/test/resources/input/log4j.properties -INFO - User clicked on shopping Cart
+2022-05-02 21:05:33,341 - src/test/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message displays FAILED
+2022-05-02 21:11:37,387 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change started
+2022-05-02 21:11:41,745 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 21:11:41,824 - src/test/resources/input/log4j.properties -INFO - User clicked on Currency
+2022-05-02 21:11:42,237 - src/test/resources/input/log4j.properties -INFO - User chose Euro Currency
+2022-05-02 21:11:42,317 - src/test/resources/input/log4j.properties -INFO - Currency value changed to Euro
+2022-05-02 21:11:43,144 - src/test/resources/input/log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-05-02 21:11:43,165 - src/test/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-05-02 21:11:45,890 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 21:11:46,350 - src/test/resources/input/log4j.properties -INFO - User clicked on shopping Cart
+2022-05-02 21:11:46,399 - src/test/resources/input/log4j.properties -INFO -  “Your shopping cart is empty!” Message is displayed
+2022-05-02 21:11:46,963 - src/test/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-05-02 21:55:34,240 - src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-05-02 21:55:38,041 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 21:55:38,311 - src/test/resources/input/log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-05-02 21:55:38,361 - src/test/resources/input/log4j.properties -INFO - Scenario Product Comparison started
+2022-05-02 21:55:41,379 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 21:55:41,718 - src/test/resources/input/log4j.properties -INFO - Scenario Product Comparison UNDEFINED
+2022-05-02 21:55:41,738 - src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-05-02 21:55:44,374 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 21:55:44,562 - src/test/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list UNDEFINED
+2022-05-02 21:55:44,588 - src/test/resources/input/log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-05-02 21:55:48,668 - src/test/resources/input/log4j.properties -INFO - User is on the Home Page
+2022-05-02 21:55:48,903 - src/test/resources/input/log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
