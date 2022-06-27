@@ -15,7 +15,9 @@ public class ShoppingCartPage extends Base {
 	private WebElement cartText;
 	
 	public boolean isCartTextDisplayed() {
-		if(cartText.isDisplayed())
+		String expectedCartText = "Your shopping cart is empty!";
+		String actualCartText = cartText.getText();
+		if(cartText.isDisplayed()&&actualCartText.equals(expectedCartText))
 			return true;
 		else
 			return false;

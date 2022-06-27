@@ -12,7 +12,7 @@ import utilities.CucumberReportingConfig;
 		
 		features ="classpath:feature",  
 		glue = "step.definitions",  
-		tags ="@laptopsTest",					
+		tags ="@LaptopsTest",					
 		dryRun =false,				
 		monochrome =true,			
 		strict = true,				
